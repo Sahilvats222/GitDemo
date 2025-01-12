@@ -12,6 +12,7 @@ public class Day1 {
     public void demo(){
         System.out.println("Hello");
         System.out.println("Sahil");
+        System.out.println("Vats");
     }
     @Test
     public void secondTest(){
